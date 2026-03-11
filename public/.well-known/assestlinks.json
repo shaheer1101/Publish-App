@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.aneelasmakeover.pwa",
+        "sha256_cert_fingerprints": ["43:09:6E:9D:9E:64:32:59:92:BE:5D:F9:A3:1D:71:06:C7:9F:22:65:9A:15:F9:9D:F7:C5:E9:78:A5:FC:45:8D"]
+      }
+    }]
