@@ -2,7 +2,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "com.aneelasmakeover.pwa",
-        "sha256_cert_fingerprints": ["43:09:6E:9D:9E:64:32:59:92:BE:5D:F9:A3:1D:71:06:C7:9F:22:65:9A:15:F9:9D:F7:C5:E9:78:A5:FC:45:8D"]
+        "package_name": "app.makeover.saloon",
+        "sha256_cert_fingerprints": ["32:67:5C:BE:43:6D:1C:CB:A6:3D:FA:CC:30:10:16:63:B6:91:27:F5:52:7B:01:97:35:19:5D:8C:C3:89:59:C0"]
       }
     }]
