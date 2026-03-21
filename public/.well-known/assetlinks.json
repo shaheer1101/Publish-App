@@ -2,7 +2,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "app.makeover.saloon",
-        "sha256_cert_fingerprints": ["32:67:5C:BE:43:6D:1C:CB:A6:3D:FA:CC:30:10:16:63:B6:91:27:F5:52:7B:01:97:35:19:5D:8C:C3:89:59:C0"]
+        "package_name": "app.netlify.makeover",
+        "sha256_cert_fingerprints": ["16:18:1E:5F:4A:36:09:0E:52:E4:81:61:53:4F:CD:3B:8C:29:35:D3:6C:E2:74:B4:14:21:70:32:4B:AE:49:CD"]
       }
     }]
