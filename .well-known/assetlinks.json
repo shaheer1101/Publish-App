@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "app.netlify.makeover",
-        "sha256_cert_fingerprints": ["16:18:1E:5F:4A:36:09:0E:52:E4:81:61:53:4F:CD:3B:8C:29:35:D3:6C:E2:74:B4:14:21:70:32:4B:AE:49:CD"]
-      }
-    }]
