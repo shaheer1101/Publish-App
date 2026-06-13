@@ -9,6 +9,7 @@ export default defineConfig(({ mode }) => {
   const apiKey = process.env.API_KEY || env.API_KEY || "AIzaSyCCJV06PLqQ4gC7MvIRvtPLBPxG6oBc8Nk";
 
   return {
+    base: './',
     plugins: [react()],
     define: {
       'process.env.API_KEY': JSON.stringify(apiKey),
